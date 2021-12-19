@@ -25,6 +25,11 @@ __help__ = """
 ** Telegraph **
 - /telegraph <reply to jpg, jpeg, png, gif or mp4>: upload to telegraph.
 
+**Random Logo**
+- /logo <name>
+
+<i>Powerd By: SlapTap Logo API<i>
+
 ** More **
  - /phone <tp no> : Track Phone no
 """
